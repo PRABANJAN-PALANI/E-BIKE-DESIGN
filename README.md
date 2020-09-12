@@ -1,4 +1,4 @@
 # E-BIKE-DESIGN
-This model is bult from scratch in SolidWorks.
+The model is designed from scratch in SolidWorks.
 .............................🏍️
 
